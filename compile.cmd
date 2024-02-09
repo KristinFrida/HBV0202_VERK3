@@ -1,1 +1,1 @@
-I'm testing
+javac Main.java
