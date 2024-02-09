@@ -1,1 +1,1 @@
-javac -d bin ./src/*.java
+javac -d bin src/*.java src/is/hi/kfs14/hbv202g/ass3/backend/*.java src/is/hi/kfs14/hbv202g/ass3/frontend/*.java
