@@ -1,3 +1,3 @@
 cd bin
-jar -c -m ../mymanifest.mf -f ../myjar.jar *
+jar cfm ..\myjar.jar ..\mymanifest.mf *
 cd ..
